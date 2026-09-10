@@ -39,6 +39,12 @@ It also explores how real-time data processing and centralized platform infrastr
 3. Customer discovery and digital transaction
 4. Automated inventory adjustment
 5. Local collection and transaction completion
+   
+### Operational Workflow Diagram
+
+The following diagram visualizes the end-to-end operational workflow described above, highlighting the flow from surplus inventory assessment through real-time platform coordination and digital transactions to final collection.
+
+![Too Good To Go Operational Workflow](operational-workflow.png)
 
 ## AI & Future Development
 
