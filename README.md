@@ -58,6 +58,12 @@ The research identifies **AI-based forecasting and automated data-driven forecas
 **Project:** Academic Research Project  
 **Date:** May 2026
 
+## Full Academic Paper
+
+The complete academic paper is available here:
+
+[View the full project (PDF)](./Too-Good-To-Go-Digital-Platform-Analysis.pdf)
+
 ## Author
 
 **Maria Papageorgiou**
