@@ -6,6 +6,13 @@ Academic research project developed for the **Business Administration and New Te
 
 This project examines the operational mechanics of Too Good To Go's digital food redistribution platform, focusing on how digital systems and data flows support real-time inventory management, operational coordination, and data-driven decision-making.
 
+## Project Highlights
+
+- Analyzed the operational structure of Too Good To Go's digital food redistribution platform.
+- Examined real-time inventory management and operational data flows.
+- Explored how digital systems and business intelligence support data-driven decision-making.
+- Identified AI-based forecasting as a potential future enhancement for operational optimization.
+  
 ## Project Focus
 
 The analysis explores:
@@ -48,6 +55,10 @@ The research identifies **AI-based forecasting and automated data-driven forecas
 - Analytical Skills
 - Strategic Thinking
 - Supply Chain Analysis
+  
+## Scope & Limitations
+
+This project is an academic business and data-oriented analysis. No machine learning models, production data pipelines, or MLOps systems were implemented. AI-based forecasting was explored as a potential future enhancement rather than implemented functionality.
 
 ## Academic Context
 
